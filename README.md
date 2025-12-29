@@ -39,3 +39,8 @@ The project defines distinct personas for agents to ensure high-quality, domain-
 1.  Review the `Step_by_Step_RAG.pdf` in the `RAG_agent` folder to understand the workflow.
 2.  Explore the `rag-dataset-main` to see the types of documents the agents can query.
 3.  Use the instruction files in `RAG_agent` to configure your OpenAI Assistants or compatible agent framework.
+
+## Author
+
+**Ashu Mishra**  
+Connect on LinkedIn: [https://www.linkedin.com/in/ashumish/](https://www.linkedin.com/in/ashumish/)
