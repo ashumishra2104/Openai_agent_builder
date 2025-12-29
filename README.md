@@ -1,5 +1,8 @@
 # OpenAI Agent Builder
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d0644786-e727-49f4-b7b2-bdca2a892856" />
+
+
 This repository contains resources and projects related to building AI agents using OpenAI's technologies, focusing on Retrieval-Augmented Generation (RAG) and specialized agent instructions.
 
 ## Repository Structure
